@@ -1,0 +1,3 @@
+*.pkl_memoize_py3
+cpp_eval/libs
+cpp_eval/obj
